@@ -3,8 +3,9 @@
 
 # Hi 👋, I'm Hariprasad
 
-#### A passionate Full-Stack Web Developer
+**`A passionate Full-Stack Web Developer`**
 
+<br />
 <a href="mailto:hariprasadkv02@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
