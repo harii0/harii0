@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611193zv6d0ignmw7ijdudhicwb5bx6flo1aa7db5hq&rid=giphy.gif&ct=g" alt="Coding in Anime Style" width="100%" height="200px">
 
-# Hi 👋, I'm Hari
+# Hi 👋, I'm Hariprasad
 
 #### A passionate Full-Stack Web Developer
 
